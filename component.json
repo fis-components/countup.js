@@ -1,0 +1,13 @@
+{
+    "name": "countup.js",
+    "description": "Animates a numerical value by counting to it",
+    "repos": "https://github.com/inorganik/countUp.js.git",
+    "main": "countUp.min.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "1.7.1"
+}
